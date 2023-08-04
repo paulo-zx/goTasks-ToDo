@@ -1,0 +1,22 @@
+.header{
+    padding: 2em;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer p{
+    color: #555;
+    font-size: 0.9em;
+    font-weight: 500;
+    opacity: 0.7;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer p:hover{
+    opacity: 1;
+}
